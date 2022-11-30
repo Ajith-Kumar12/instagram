@@ -1,3 +1,3 @@
 # instagram
 
-this a trial page
+this is a trial page
